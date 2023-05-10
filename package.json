@@ -1,5 +1,23 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "nodemon": "^2.0.22"
-  }
+  },
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritik-122/NodeServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritik-122/NodeServer/issues"
+  },
+  "homepage": "https://github.com/Ritik-122/NodeServer#readme",
+  "description": ""
 }
